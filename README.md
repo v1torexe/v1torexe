@@ -5,7 +5,7 @@
 - 👯 Collaborating with SyncGroup
 - 💬 Get in touch with me on Discord: uviturr.sla
 
-##🔧 Languages
+## 🔧 Languages
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
   <img align="center" alt="Vitor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
