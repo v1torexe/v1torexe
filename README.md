@@ -1,5 +1,6 @@
 ## Hello! 👋
 
+- 📰 My Portfolio: https://v1torexe-site.vercel.app/
 - 🔭 I currently work with back-end
 - 🌱 Studying C#
 - 👯 Collaborating with SyncGroup
